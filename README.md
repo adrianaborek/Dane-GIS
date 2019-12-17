@@ -14,4 +14,6 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 2. **System informacji przestrzennej dla Poznania**
      - _url:_ [sip.poznan.pl](sip_poznan.pl)
      - _opis:_ Szeroka baza danych: mapy, modele 3D budynków w standardzie CityGML, usługi mapowe OGC dające dostęp do licznych warstw (granice, plany, ortofotomapy etc.) - również jako WFS co umożliwia zapisanie ich do obróbki lokalnej. 
-     
+3. **Earth Esa**
+     - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
+     - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT     
